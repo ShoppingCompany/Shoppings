@@ -13,6 +13,8 @@
 	"APPLOVIN_INTERSTITIAL": "73c69146c63b268f",
 
 	"whichAds": 0,
+	
+	"timeShowAds": 10000,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
