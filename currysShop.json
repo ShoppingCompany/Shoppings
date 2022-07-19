@@ -13,7 +13,7 @@
 
 	"whichAds": 0,
 
-	"timeShowAds": 100000,
+	"timeShowAds": 3600000,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -23,7 +23,7 @@
 
 	"URL": "https://www.currys.co.uk/",
 
-	"isInReview": true,
+	"isInReview": false,
 
 
 
