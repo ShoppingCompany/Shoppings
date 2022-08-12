@@ -1,7 +1,7 @@
 {
 
-	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-	"admob_inter": "ca-app-pub-39402560313712",
+	"admob_banner": "ca-app-pub-6168482205267254/2944666186",
+	"admob_inter":  "ca-app-pub-6168482205267254/9033500187",
 
 	"APP_KEY": "160839bd5",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -11,7 +11,7 @@
 	"APPLOVIN_BANNER": "1d888805b48e9829",
 	"APPLOVIN_INTERSTITIAL": "83200f11a4c44745",
 
-	"whichAds": 1,
+	"whichAds": 0,
 
 	"timeShowAds": 300000,
 
