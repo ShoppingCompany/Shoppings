@@ -11,7 +11,7 @@
 	"APPLOVIN_BANNER": "1d888805b48e9829",
 	"APPLOVIN_INTERSTITIAL": "83200f11a4c44745",
 
-	"whichAds": 1,
+	"whichAds": 0,
 
 	"timeShowAds": 3600000,
 
@@ -23,7 +23,7 @@
 
 	"URL": "https://www.vinted.com/",
 
-	"isInReview": false,
+	"isInReview": true,
 
 
 
