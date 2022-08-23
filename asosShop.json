@@ -4,7 +4,7 @@
 	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
 	"admob_native": "ca-app-p4/7244635786",
 
-	"APP_KEY": "12dfb647d",
+	"APP_KEY": "162c52b25",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -12,7 +12,7 @@
 	"APPLOVIN_BANNER": "1d888805b48e9829",
 	"APPLOVIN_INTERSTITIAL": "83200f11a4c44745",
 
-	"whichAds": 0,
+	"whichAds": 1,
 	
 	"timeShowAds": 20000,
 
