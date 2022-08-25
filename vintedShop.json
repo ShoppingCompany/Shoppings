@@ -1,7 +1,7 @@
 {
 
 	"admob_banner": "ca-app-pub-6168482205267254/1695814066",
-	"admob_inter":  "ca-app-pub-6168482205267254/1498457228",
+	"admob_inter":  "ca-app-pub-6168485267254/1498457228",
 
 	"APP_KEY": "161fe8185",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -23,7 +23,7 @@
 
 	"URL": "https://www.vinted.com/",
 
-	"isInReview": true,
+	"isInReview": false,
 
 
 
