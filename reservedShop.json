@@ -1,7 +1,7 @@
 {
 
 	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-	"admob_inter":  "ca-app-pub-3940256099942533173712",
+	"admob_inter":  "ca-app-pub-3940256099942544/1033173712",
 
 	"APP_KEY": "16368c5e5",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -11,9 +11,7 @@
 	"APPLOVIN_BANNER": "1d888805b48e9829",
 	"APPLOVIN_INTERSTITIAL": "83200f11a4c44745",
 
-	"whichAds": 1,
-
-	"timeShowAds": 300000,
+	"whichAds": 0,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
